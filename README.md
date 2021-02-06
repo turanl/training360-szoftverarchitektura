@@ -27,3 +27,5 @@ GYAKORLAT SCREENSHOTS:
 ![0701](0701 Webes alkalmazás.JPG)
 ![0702](0702 Webes alkalmazás.JPG)
 ![0801](0801 Webes alkalmazás RIA.JPG)
+
+hát ez nem jött össze :(
