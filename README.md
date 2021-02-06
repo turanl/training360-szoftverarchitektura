@@ -2,7 +2,7 @@
 
 GYAKORLAT SCREENSHOTS:
 
-![Első kép](0101 Standalone konzolos alkalmazás.JPG)
+![0101 Standalone konzolos alkalmazás](0101 Standalone konzolos alkalmazás.JPG)
 ![0102](0102 Standalone konzolos alkalmazás.JPG)
 ![0103](0103 Standalone konzolos alkalmazás.JPG)
 ![0104](0104 Standalone konzolos alkalmazás.JPG)
