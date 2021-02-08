@@ -52,5 +52,5 @@ GYAKORLAT SCREENSHOTS:
 
 ![0801](0801WebesAlkalmazás.JPG)
 
-![0901](0801WebesAlkalmazasRIA.JPG)
+![0901](0901WebesAlkalmazasRIA.JPG)
 
