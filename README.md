@@ -6,7 +6,7 @@ GYAKORLAT SCREENSHOTS:
 ![0102](0102StandaloneKonzolosAlkalmazas.JPG)
 ![0103](0103StandaloneKonzolosAlkalmazas.JPG)
 ![0104](0104StandaloneKonzolosAlkalmazas.JPG)
-![0201](0201StandaloneAlkalmazásGrafikusFelülettel.JPG)
+![0201](0201StandaloneAlkalmazasGrafikusFelülettel.JPG)
 ![0301](0301KözpontiAdatbázis.JPG)
 ![0302](0302KözpontiAdatbázis.JPG)
 ![0303](0303KözpontiAdatbázis.JPG)
@@ -27,5 +27,5 @@ GYAKORLAT SCREENSHOTS:
 ![0701](0701WebesAlkalmazás.JPG)
 ![0702](0702WebesAlkalmazás.JPG)
 ![0801](0801WebesAlkalmazás.JPG)
+![0901](0801WebesAlkalmazásRIA.JPG)
 
-hát ez nem jött össze :(
